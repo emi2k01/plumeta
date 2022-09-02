@@ -32,7 +32,7 @@ Menu {
   },
 
   @Props {
-      spacing: Length | Percentage,
+      spacing: unit(padding-top),
   },
 
   d: flex,
